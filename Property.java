@@ -119,7 +119,8 @@ public class Property {
 		return "Property Name: "+this.propertyName+"\r\n" + 
 				"               Located in "+this.city+"\r\n" + 
 				"               Belonging to: "+this.owner+"\r\n" + 
-				"               Rent Amount: "+this.rentAmount+ " ";
+				"               Rent Amount: "+this.rentAmount+ " "+
+				"               Programmer Name: Harlene Kaur";
 	}
 
 }
